@@ -1,5 +1,4 @@
 <h1 align="center">What's up Guys, I'm Gabriel</h1>
-<p align="left"> <a href="https://twitter.com/gabriell1__" target="blank"><img src="https://img.shields.io/twitter/follow/gabriell1__?logo=twitter&style=for-the-badge" alt="gabriell1__" /></a> </p>
 
 - 🔭 I’m currently working on [CESAR](https://github.com/CESARBR)
 
