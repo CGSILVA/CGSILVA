@@ -8,8 +8,6 @@
 
 - 💬 Ask me about **Angular, Android, React, Software architecture and Design patterns**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/carlosgabrieldasilva/](https://www.linkedin.com/in/carlosgabrieldasilva/)
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cgsilva&show_icons=true&locale=en" alt="cgsilva" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
